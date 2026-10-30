@@ -1,0 +1,10 @@
+{
+  "name": "brainlabs-arcade",
+  "version": "2.0.0",
+  "description": "Brain Lab Arcade - solo brain games plus 1-4 player racing & battle games (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "keywords": ["arcade", "multiplayer", "racing", "brain-games"],
+  "author": "BrainLabs",
+  "license": "MIT"
+}
